@@ -3,11 +3,11 @@
 ## Project Overview
 
 1. Clone the static website codebase.
-2. Create a Dockerfile to dockerize it with Nginx.
+2. Create a Dockerfile and dockerize it with Nginx.
 3. Built and test the Docker image locally.
 4. Push the image to Docker Hub.
 5. Launch an EC2 instance with Docker.
-6. Pull the image from Docker Hub and ran the container on EC2.
+6. Pull the image from Docker Hub and run the container on EC2.
 7. Access the website via the EC2 public IP.
 
 
